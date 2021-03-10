@@ -3,9 +3,14 @@
   "version": "3.0.1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
-  "keywords": [],
+  "keywords": [
+    "Node.js",
+    "excel",
+    "xls",
+    "csv"
+  ],
   "engines": {
     "node": ">=8.3.0"
   },
@@ -16,5 +21,9 @@
   },
   "devDependencies": {
     "async": "^3.2.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/romanbalayan/node-report-writers/issues"
+  },
+  "homepage": "https://github.com/romanbalayan/node-report-writers#readme"
 }
