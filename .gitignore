@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+.npmrc
+example/example.csv
+example/example.xlsx
+example/example.pdf
+.DS_Store

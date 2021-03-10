@@ -1,0 +1,20 @@
+{
+  "name": "node-report-writers",
+  "version": "3.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=8.3.0"
+  },
+  "author": "Roman Balayan <roman.balayan@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.2.1"
+  },
+  "devDependencies": {
+    "async": "^3.2.0"
+  }
+}
